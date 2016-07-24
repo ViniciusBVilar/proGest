@@ -16,6 +16,7 @@
     $stateProvider
         .state('timesheet', {
           url: '/timesheet',
+          templateURL : 'app/pages/timesheet/timesheet.html',
           template : '<ui-view></ui-view>',
           abstract: true,
           title: 'Timesheet',
