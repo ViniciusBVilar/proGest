@@ -1,6 +1,6 @@
 {
-  "name": "blur_admin",
-  "version": "1.2.0",
+  "name": "pro_gest",
+  "version": "0.1.0",
   "devDependencies": {
     "browser-sync": "~2.9.11",
     "browser-sync-spa": "~1.0.3",
@@ -44,5 +44,9 @@
   },
   "scripts": {
     "postinstall": "bower install"
+  },
+  "dependencies": {
+    "browser-sync": "~2.9.11",
+    "browser-sync-spa": "~1.0.3"
   }
 }
