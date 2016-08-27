@@ -106,7 +106,7 @@
         "id": "nd1",
         "parent": "#",
         "type": "folder",
-        "text": "Node 1",
+        "text": "Android Studio",
         "state": {
           "opened": true
         }
@@ -115,7 +115,7 @@
         "id": "nd2",
         "parent": "#",
         "type": "folder",
-        "text": "Node 2",
+        "text": "Google",
         "state": {
           "opened": true
         }
@@ -124,7 +124,7 @@
         "id": "nd3",
         "parent": "#",
         "type": "folder",
-        "text": "Node 3",
+        "text": "Android Simulator",
         "state": {
           "opened": true
         }
@@ -242,7 +242,7 @@
           "id": "n1",
           "parent": "#",
           "type": "folder",
-          "text": "Node 1",
+          "text": "Android Simulator",
           "state": {
             "opened": true
           }
@@ -251,7 +251,7 @@
           "id": "n2",
           "parent": "#",
           "type": "folder",
-          "text": "Node 2",
+          "text": "Google",
           "state": {
             "opened": true
           }
@@ -260,7 +260,7 @@
           "id": "n3",
           "parent": "#",
           "type": "folder",
-          "text": "Node 3",
+          "text": "Android Studio",
           "state": {
             "opened": true
           }
@@ -268,7 +268,7 @@
         {
           "id": "n5",
           "parent": "n1",
-          "text": "Node 1.1",
+          "text": "Nexus 6",
           "state": {
             "opened": true
           }
@@ -276,7 +276,7 @@
         {
           "id": "n6",
           "parent": "n1",
-          "text": "Node 1.2",
+          "text": "Nexus 5",
           "state": {
             "opened": true
           }
@@ -284,7 +284,7 @@
         {
           "id": "n7",
           "parent": "n1",
-          "text": "Node 1.3",
+          "text": "Nexus 7",
           "state": {
             "opened": true
           }
@@ -292,7 +292,7 @@
         {
           "id": "n8",
           "parent": "n1",
-          "text": "Node 1.4",
+          "text": "Galaxy S2",
           "state": {
             "opened": true
           }
@@ -300,7 +300,7 @@
         {
           "id": "n9",
           "parent": "n2",
-          "text": "Node 2.1",
+          "text": "StackOverFlow-create a provider android",
           "state": {
             "opened": true
           }
@@ -308,7 +308,7 @@
         {
           "id": "n10",
           "parent": "n2",
-          "text": "Node 2.2 (Custom icon)",
+          "text": "SourceForge-how to create a provider android",
           "icon": "ion-help-buoy",
           "state": {
             "opened": true
@@ -317,7 +317,7 @@
         {
           "id": "n12",
           "parent": "n3",
-          "text": "Node 3.1",
+          "text": "UserProfileConfiguration.java",
           "state": {
             "opened": true
           }
@@ -326,7 +326,7 @@
           "id": "n13",
           "parent": "n3",
           "type": "folder",
-          "text": "Node 3.2",
+          "text": "UserProfileProvider.java",
           "state": {
             "opened": true
           }
@@ -334,7 +334,7 @@
         {
           "id": "n14",
           "parent": "n13",
-          "text": "Node 3.2.1",
+          "text": "UserProfileRequestModel.java",
           "state": {
             "opened": true
           }
@@ -342,7 +342,7 @@
         {
           "id": "n15",
           "parent": "n13",
-          "text": "Node 3.2.2",
+          "text": "UserProfileResponseHandler.java",
           "state": {
             "opened": true
           }
@@ -350,7 +350,7 @@
         {
           "id": "n16",
           "parent": "n3",
-          "text": "Node 3.3",
+          "text": "UserProfileRenderer.java",
           "state": {
             "opened": true
           }
@@ -358,7 +358,7 @@
         {
           "id": "n17",
           "parent": "n3",
-          "text": "Node 3.4",
+          "text": "UserProfileActivity.java",
           "state": {
             "opened": true
           }
@@ -366,7 +366,7 @@
         {
           "id": "n18",
           "parent": "n3",
-          "text": "Node 3.5",
+          "text": "UserProfileFragment.java",
           "state": {
             "opened": true
           }
@@ -374,7 +374,7 @@
         {
           "id": "n19",
           "parent": "n3",
-          "text": "Node 3.6",
+          "text": "UserProfileContract.java",
           "state": {
             "opened": true
           }

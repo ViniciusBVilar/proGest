@@ -6,6 +6,7 @@
   'use strict';
 
   angular.module('BlurAdmin.pages.timesheet', [
+    'BlurAdmin.pages.timesheet.calendar',
     'BlurAdmin.pages.timesheet.timeline',
     'BlurAdmin.pages.timesheet.tree',
   ])
